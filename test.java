@@ -6,4 +6,4 @@ asdf
 asd
 f
 
-new version
+new ver
